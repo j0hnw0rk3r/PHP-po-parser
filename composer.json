@@ -1,5 +1,5 @@
 {
-	"name"        : "j0hnw0rk3r/PHP-po-parser",
+	"name"        : "j0hnw0rk3r/php-po-parser",
 	"description" : "Gettext *.PO file parser for PHP.",
 	"type"        : "library",
 	"keywords"    : ["i18n","i10n","po","gettext"],
